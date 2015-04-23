@@ -1,10 +1,1 @@
-# GRNOC
-A change
-
-Another change
-
-Change
-
-change
-
-
+Changed file.
